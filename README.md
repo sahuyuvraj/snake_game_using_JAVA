@@ -24,7 +24,7 @@ git clone git@github.com:sahuyuvraj/snake_game_using_JAVA.git
 
 ## 🚀 About Me
 
-I am a prefinal undergrad at NIT Raipur pursuing B.Tech in Computer Science & Engineering.Proficient in C++,JAVA,JAVASCRIPT, and SQL and familiar using firebase, github. Passionate aboutsoftware development, web development and creating new projects.
+I am a prefinal undergrad at NIT Raipur pursuing B.Tech in Computer Science & Engineering.Proficient in C++,JAVA,JAVASCRIPT, and SQL and familiar using firebase, github. Passionate about software development, web development and creating new projects.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sahuyuvraj/)
