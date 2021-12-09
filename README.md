@@ -1,8 +1,7 @@
 # snake_game_using_JAVA
 
-Created a simple desktop application of snake game using Java and concepts of object oriented programming.Having some
-action like new apple generation ,apple eating,and movement of the snake while eating apple. One can also see the
-score board counting the number of 
+Created a simple desktop application of snake game using Java swing and concepts of object oriented programming.Having some action like new apple generation ,apple eating,and movement of the snake while eating apple. One can also see the score board counting the number of 
+
 ## Installation
 
 To setup the app for development on your local machine, please follow the instructions below:
@@ -12,6 +11,8 @@ To setup the app for development on your local machine, please follow the instru
 git clone git@github.com:sahuyuvraj/snake_game_using_JAVA.git
 
 ```
+Start playing with the arrows keys.
+If you lose, just close it and re-open it (I will add a restart button possibly)
 
 ## Screenshot
 
