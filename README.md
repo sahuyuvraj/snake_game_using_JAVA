@@ -12,6 +12,7 @@ git clone git@github.com:sahuyuvraj/snake_game_using_JAVA.git
 
 ```
 Start playing with the arrows keys.
+
 If you lose, just close it and re-open it (I will add a restart button possibly)
 
 ## Screenshot
